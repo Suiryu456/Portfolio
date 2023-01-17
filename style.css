@@ -86,6 +86,24 @@ img.edpo{
   margin-top:2vw;
   display:inline-block;
 }
+h2.rba{
+  margin-top:3vw;
+  font-size:5vw;
+}
+p.rbp{
+  margin-top:3vw;
+  font-size:3vw;
+}
+
+h2.stt{
+  margin-top:3vw;
+  font-size:5vw;
+}
+p.stp{
+  margin-top:3vw;
+  font-size:3vw;
+}
+
 
 @media screen and (maxwidth:800px){.
                                   {
