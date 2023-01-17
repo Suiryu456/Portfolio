@@ -8,25 +8,21 @@ body {
   margin: 0 3vw; /* RWD */
 }
 
-div.logo{
-  padding-top: 5vh; /* RWD */
-  padding-left: 3vw; /* RWD */
+img.logo{
+  padding-top: 1vh; /* RWD */
+  padding-left: 1vw; /* RWD */
   padding-right: 3vw; /* RWD */
-  width:27%;
-  background-image: url("images/logo.jpg");
   display:inline-block;
-  background-position: top left;
-  background-repeat: no-repeat;
-  background-size: contain; /* RWD */
+  width:30vw;
 }
 
-#title{
+.title{
   text-align:center;
   display:inline-block;
-  max-width:100vw;
-  max-height:15vw;
   font-size: 7vw; /* RWD */
   font-weight: bold;
+  margin:0;
+  max-width:50vw;
 }
 
 
@@ -39,15 +35,45 @@ nav.nav{
   color: inherit;
   margin: 0 3vw; /* RWD */
   display:inline;
+  font-size:3vw;
 }
 .nav a.active {
   font-weight: bold;
-  border-bottom: 2px solid cyan;
+  border-bottom: 1vw solid cyan;
 }
 
+img.ict{
+  display:inline-block;
+  width:42vw;
+}
+
+h2.about{
+  margin-top:3vw;
+  margin-bottom:3vw;
+  font-size:5vw;
+}
+h4.atext{
+  margin-top:1vw;
+  font-size:2.5vw;
+}
+div.C{
+  height:3vw;
+}
+h3.res{
+  font-size:5vw;
+  margin-top:2vw;
+}
+a.bict{
+  display:block;
+  font-size:3vw;
+
+}
 @media screen and (maxwidth:800px){.
                                   {
                                     
                                   }
   
 }
+*/*
+
+background-image: url("images/logo.jpg");
