@@ -66,14 +66,30 @@ h3.res{
 a.bict{
   display:block;
   font-size:3vw;
-
+  color:darkolivegreen;
 }
+h2.edw{
+  margin-top:3vw;
+  font-size:5vw;
+}
+p.edwt{
+  margin:3vw 0;
+  fontsize:3vw;
+}
+img.edp{
+  width:50vw;
+  margin-top:2vw;
+  display:inline-block;
+}
+img.edpo{
+  width:38vw;
+  margin-top:2vw;
+  display:inline-block;
+}
+
 @media screen and (maxwidth:800px){.
                                   {
                                     
                                   }
   
 }
-*/*
-
-background-image: url("images/logo.jpg");
