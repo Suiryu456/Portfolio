@@ -121,6 +121,19 @@ p.astp{
   margin-top:3vw;
   font-size:3vw;
 }
+  
+img.stf{
+  width:20vw;
+  margin-top:3vw;
+  display:inline-block;
+}
+  
+img.stfa{
+  width:20vw;
+  margin-top:3vw;
+  display:inline-block;
+}
+
 
 
 @media screen and (maxwidth:800px){.
