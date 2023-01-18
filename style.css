@@ -86,7 +86,7 @@ img.edp{
   display:inline-block;
 }
 img.edpo{
-  width:38vw;
+  width:35vw;
   margin-top:2vw;
   display:inline-block;
 }
@@ -113,6 +113,7 @@ img.rbr{
   width:38vw;
   margin-top:2vw;
   display:inline-block;
+}
 h2.astt{
   margin-top:3vw;
   font-size:5vw;
@@ -123,22 +124,12 @@ p.astp{
 }
   
 img.stf{
-  width:20vw;
-  margin-top:3vw;
+  width:43vw;
   display:inline-block;
 }
   
 img.stfa{
-  width:20vw;
-  margin-top:3vw;
+  width:43vw;
   display:inline-block;
 }
 
-
-
-@media screen and (maxwidth:800px){.
-                                  {
-                                    
-                                  }
-  
-}
