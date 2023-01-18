@@ -11,7 +11,7 @@ body {
 img.logo{
   padding-top: 1vh; /* RWD */
   padding-left: 1vw; /* RWD */
-  padding-right: 3vw; /* RWD */
+  padding-right: 1vw; /* RWD */
   display:inline-block;
   width:30vw;
 }
@@ -27,7 +27,7 @@ img.logo{
 
 
 nav.nav{
-  width:
+  vertical-align: middle;
 }
 
 .nav a {
@@ -48,13 +48,14 @@ img.ict{
 }
 
 h2.about{
-  margin-top:3vw;
-  margin-bottom:3vw;
+  margin-top:1vw;
+  margin-bottom:1vw;
   font-size:5vw;
 }
-h4.atext{
+p.atext{
   margin-top:1vw;
-  font-size:2.5vw;
+  font-size:3vw;
+  display:inline;
 }
 div.C{
   height:3vw;
@@ -64,7 +65,7 @@ h3.res{
   margin-top:2vw;
 }
 a.bict{
-  display:block;
+  display:inline;
   font-size:3vw;
   color:darkolivegreen;
 }
@@ -74,7 +75,10 @@ h2.edw{
 }
 p.edwt{
   margin:3vw 0;
-  fontsize:3vw;
+  font-size:3vw;
+}
+p.pex{
+  font-size:3vw;
 }
 img.edp{
   width:50vw;
@@ -93,8 +97,22 @@ h2.rba{
 p.rbp{
   margin-top:3vw;
   font-size:3vw;
+  display:inline;
 }
-
+a.eict{
+  display:block;
+  font-size:3vw;
+  color:darkblue;
+}
+img.rbc{
+  width:50vw;
+  margin-top:2vw;
+  display:inline-block;
+}
+img.rbr{
+  width:38vw;
+  margin-top:2vw;
+  display:inline-block;
 h2.stt{
   margin-top:3vw;
   font-size:5vw;
